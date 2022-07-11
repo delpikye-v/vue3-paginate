@@ -7,7 +7,7 @@
 
 #### Description
 
-+ Vue pagination (simple) with css. (ts)
++ Vue pagination (simple, smooth) with css. (ts)
 + You can customize ripple css.
 ---
 
